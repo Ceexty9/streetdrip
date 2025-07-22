@@ -1,11 +1,11 @@
 [
   {
-    "title": "Urban Classic Hoodie",
-    "price": "$45",
-    "gender": "men",
-    "cats": ["hoodie"],
-    "img": "men.jpg",
-    "aff": "https://www.amazon.com/dp/B00EXAMPLE1",
+    "title": "Reebok Women's Sneakers",
+    "price": "$64.02",
+    "gender": "women",
+    "cats": ["sneakers"],
+    "img": "reebokwomen.jpg",
+    "aff": "https://amzn.to/4f5XnrN",
     "badge": "New",
     "date": "2025-07-20"
   },
