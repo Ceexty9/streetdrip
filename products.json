@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Urban Classic Hoodie",
+    "price": "$45",
+    "gender": "men",
+    "cats": ["hoodie"],
+    "img": "men.jpg",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE1",
+    "badge": "New",
+    "date": "2025-07-20"
+  },
+  {
+    "title": "Oversized Graphic Tee",
+    "price": "$25",
+    "gender": "men",
+    "cats": ["tshirt"],
+    "img": "https://images.unsplash.com/photo-1587825140708-d4e6d5b1d03e?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE2",
+    "badge": "Hot",
+    "date": "2025-07-18"
+  },
+  {
+    "title": "Slim Fit Trackpants",
+    "price": "$40",
+    "gender": "men",
+    "cats": ["trackpants"],
+    "img": "https://images.unsplash.com/photo-1621867561283-fb02c6714a16?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE3",
+    "date": "2025-07-15"
+  },
+  {
+    "title": "Retro Sneakers",
+    "price": "$70",
+    "gender": "men",
+    "cats": ["sneakers"],
+    "img": "https://images.unsplash.com/photo-1587833905121-38a5b148bf15?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE4",
+    "badge": "Trending",
+    "date": "2025-07-10"
+  },
+  {
+    "title": "Street Snapback Cap",
+    "price": "$18",
+    "gender": "men",
+    "cats": ["cap"],
+    "img": "https://images.unsplash.com/photo-1592407929210-efc5c08c3b6b?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE5",
+    "date": "2025-07-05"
+  },
+  {
+    "title": "Women’s Cropped Hoodie",
+    "price": "$42",
+    "gender": "women",
+    "cats": ["hoodie"],
+    "img": "https://images.unsplash.com/photo-1618354695078-74c1ef44b324?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE6",
+    "badge": "New",
+    "date": "2025-07-19"
+  },
+  {
+    "title": "Women’s Graphic Tee",
+    "price": "$27",
+    "gender": "women",
+    "cats": ["tshirt"],
+    "img": "https://images.unsplash.com/photo-1520975918318-3f1148aab6e3?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE7",
+    "date": "2025-07-16"
+  },
+  {
+    "title": "Women’s Track Joggers",
+    "price": "$38",
+    "gender": "women",
+    "cats": ["trackpants"],
+    "img": "https://images.unsplash.com/photo-1621867561283-fb02c6714a16?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE8",
+    "date": "2025-07-12"
+  },
+  {
+    "title": "High-Top Canvas Sneakers",
+    "price": "$65",
+    "gender": "women",
+    "cats": ["sneakers"],
+    "img": "https://images.unsplash.com/photo-1584367369225-5737f3d4aa1f?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE9",
+    "badge": "Hot",
+    "date": "2025-07-08"
+  },
+  {
+    "title": "Women’s Beanie Hat",
+    "price": "$15",
+    "gender": "women",
+    "cats": ["cap"],
+    "img": "https://images.unsplash.com/photo-1598514982608-df5c9af3e8a0?auto=format&fit=crop&w=800&q=60",
+    "aff": "https://www.amazon.com/dp/B00EXAMPLE10",
+    "date": "2025-07-01"
+  }
+]
